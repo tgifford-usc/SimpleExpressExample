@@ -1,0 +1,22 @@
+{
+  "name": "simpleexpressexample",
+  "version": "1.0.0",
+  "description": "Simple example of a node express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgifford-usc/SimpleExpressExample.git"
+  },
+  "author": "tgifford-usc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgifford-usc/SimpleExpressExample/issues"
+  },
+  "homepage": "https://github.com/tgifford-usc/SimpleExpressExample#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
